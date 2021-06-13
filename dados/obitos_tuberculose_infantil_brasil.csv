@@ -1,0 +1,36 @@
+ Morbidade Hospitalar do SUS - por local de internação - Brasil
+Óbitos por Unidade da Federação e Ano processamento
+Lista Morb  CID-10: Tuberculose pulmonar, Outras tuberculoses respiratórias, Restante de tuberculose respiratória, Tuberculose do sistema nervoso, Tuberc intest peritônio glângl mesentéricos, Tuberculose óssea e das articulações, Tuberculose do aparelho geniturinário, Tuberculose miliar, Restante de outras tuberculoses, Seqüelas de tuberculose
+Faixa Etária 1: Menor 1 ano, 1 a 4 anos, 5 a 9 anos
+Período:Jan/2008-Abr/2021
+"Unidade da Federação";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"2019";"2020";"2021";"Total"
+"11 Rondônia";-;-;-;1;1;-;-;-;-;-;-;-;-;-;2
+"12 Acre";-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+"13 Amazonas";1;1;-;-;-;-;-;-;2;1;-;1;1;-;7
+"14 Roraima";-;-;-;-;-;-;-;-;-;-;1;-;-;-;1
+"15 Pará";1;1;1;5;1;1;3;-;-;1;1;-;1;-;16
+"16 Amapá";-;-;-;-;1;-;-;-;-;-;-;-;-;-;1
+"17 Tocantins";-;-;-;1;1;1;-;1;-;-;-;-;-;-;4
+"21 Maranhão";-;2;-;1;-;-;-;-;-;-;1;-;-;-;4
+"22 Piauí";-;-;-;-;-;-;-;-;-;1;3;3;-;-;7
+"23 Ceará";2;1;-;-;-;-;1;-;-;-;-;-;-;-;4
+"25 Paraíba";2;1;-;-;-;-;-;-;1;-;-;1;-;-;5
+"26 Pernambuco";6;6;4;-;2;3;-;1;2;-;3;3;-;2;32
+"27 Alagoas";-;-;-;1;-;-;-;-;-;-;-;2;-;-;3
+"29 Bahia";2;3;-;-;-;1;2;1;-;1;-;3;-;-;13
+"31 Minas Gerais";7;6;-;2;-;2;2;1;5;3;2;5;4;-;39
+"32 Espírito Santo";-;-;-;-;-;-;-;1;-;-;-;-;-;-;1
+"33 Rio de Janeiro";2;-;3;2;1;3;-;1;1;1;-;3;2;-;19
+"35 São Paulo";1;4;-;3;1;-;-;-;1;2;2;-;-;-;14
+"41 Paraná";6;2;2;1;1;-;-;1;2;1;1;-;1;1;19
+"42 Santa Catarina";-;1;-;-;-;-;-;-;-;-;-;-;-;-;1
+"43 Rio Grande do Sul";1;2;-;2;2;-;1;-;2;-;-;-;-;1;11
+"50 Mato Grosso do Sul";-;1;-;2;-;-;-;-;3;3;1;1;-;-;11
+"52 Goiás";2;-;2;2;-;1;1;-;-;-;-;-;-;-;8
+"Total";33;31;12;23;11;12;10;7;19;14;15;22;10;4;223
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Situação da base de dados nacional em 29/04/2016.
+ Dados de janeiro de 2015 até março de 2016 sujeitos a retificação.
+ 
